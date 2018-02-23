@@ -1,6 +1,6 @@
 
-choco install visualstudiocode
-choco install nodejs 
+choco install visualstudiocode -y
+choco install nodejs -y
 
 npm install -g @angular/cli
 
