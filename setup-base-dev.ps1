@@ -9,3 +9,5 @@ Write-Host "install posh-git"
 install-module posh-git
 
 choco install 7zip.install -y
+
+choco install putty -y
