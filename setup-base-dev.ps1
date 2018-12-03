@@ -50,3 +50,4 @@ choco install wireshark -y
 choco install filezilla -y
 choco install putty -y
 choco install fiddler -y
+choco install rdcman -y
