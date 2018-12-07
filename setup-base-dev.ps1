@@ -24,6 +24,7 @@ choco install keepass.install -y
 choco install 7zip.install -y
 choco install adobereader -y
 choco install notepadplusplus.install -y
+choco install greenshot -y
 
 #Dev
 choco install python3 -y
