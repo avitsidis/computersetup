@@ -25,6 +25,7 @@ choco install 7zip.install -y
 choco install adobereader -y
 choco install notepadplusplus.install -y
 choco install greenshot -y
+choco install windirstat -y
 
 #Dev
 choco install python3 -y
