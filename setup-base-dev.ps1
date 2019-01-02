@@ -26,6 +26,7 @@ choco install adobereader -y
 choco install notepadplusplus.install -y
 choco install greenshot -y
 choco install windirstat -y
+choco install freeplane -y
 
 #Dev
 choco install python3 -y
@@ -33,7 +34,8 @@ choco install nodejs.install -y
 choco install git.install -y
 choco install vscode -y
 choco install sourcetree -y
-choco install visualstudio2017enterprise -y
+choco install visualstudio2017community -y
+#choco install visualstudio2017enterprise -y
 #choco install visualstudio2015enterprise -y
 choco install resharper-platform -y
 
