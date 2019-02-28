@@ -27,6 +27,7 @@ choco install notepadplusplus.install -y
 choco install greenshot -y
 choco install windirstat -y
 choco install freeplane -y
+choco install graphviz -y
 
 #Dev
 choco install python3 -y
