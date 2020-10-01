@@ -29,6 +29,7 @@ choco install windirstat -y
 choco install freeplane -y
 choco install graphviz -y
 choco install windirstat -y
+choco install openssl -y
 
 #Dev
 choco install python3 -y
@@ -36,9 +37,7 @@ choco install nodejs.install -y
 choco install git.install -y
 choco install vscode -y
 choco install sourcetree -y
-choco install visualstudio2017community -y
-#choco install visualstudio2017enterprise -y
-#choco install visualstudio2015enterprise -y
+choco install visualstudio2019community -y
 choco install resharper-platform -y
 
 
