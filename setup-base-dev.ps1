@@ -18,12 +18,11 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 Install-Module -Name posh-git
 
 # tools
-choco install conemu
+choco install conemu -y
 choco install procexp -y
 choco install paint.net -y
 choco install keepass.install -y
 choco install 7zip.install -y
-choco install conemu
 choco install windirstat -y
 choco install freeplane -y
 choco install graphviz -y
@@ -33,7 +32,7 @@ choco install openssl -y
 choco install python3 -y
 choco install nodejs.install -y
 choco install git.install -y
-choco install docker-for-windows --version=1.12.1
+choco install docker-for-windows -y
 choco install vscode -y
 choco install sourcetree -y
 choco install visualstudio2019community -y
