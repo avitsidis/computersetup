@@ -22,8 +22,6 @@ choco install procexp -y
 choco install paint.net -y
 choco install keepass.install -y
 choco install 7zip.install -y
-choco install adobereader -y
-choco install notepadplusplus.install -y
 choco install greenshot -y
 choco install windirstat -y
 choco install freeplane -y
@@ -35,10 +33,10 @@ choco install openssl -y
 choco install python3 -y
 choco install nodejs.install -y
 choco install git.install -y
+choco install docker-for-windows --version=1.12.1
 choco install vscode -y
 choco install sourcetree -y
 choco install visualstudio2019community -y
-choco install resharper-platform -y
 
 
 #db
