@@ -18,15 +18,15 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 Install-Module -Name posh-git
 
 # tools
+choco install conemu
 choco install procexp -y
 choco install paint.net -y
 choco install keepass.install -y
 choco install 7zip.install -y
-choco install greenshot -y
+choco install conemu
 choco install windirstat -y
 choco install freeplane -y
 choco install graphviz -y
-choco install windirstat -y
 choco install openssl -y
 
 #Dev
