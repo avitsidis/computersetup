@@ -43,6 +43,7 @@ choco install sql-server-management-studio -y
 choco install dbeaver -y
 
 #web
+choco install brave -y
 choco install googlechrome -y
 choco install firefox -y
 choco install postman -y
