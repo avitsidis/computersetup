@@ -18,7 +18,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 Install-Module -Name posh-git
 
 # tools
-choco install conemu -y
+choco install microsoft-windows-terminal --pre 
 choco install procexp -y
 choco install paint.net -y
 choco install keepass.install -y
